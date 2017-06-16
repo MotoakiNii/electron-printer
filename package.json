@@ -28,9 +28,9 @@
   },
   "binary": {
     "module_name": "node_printer",
-    "module_path": "./build/{configuration}/electron-v1.4.10-{platform}-{arch}/",
-    "package_name": "electron-v1.4.10-{platform}-{arch}.tar.gz",
-    "host": "https://github.com/DeekyJay/electron-printer/releases/download/0.0.7"
+    "module_path": "./build/{configuration}/electron-v1.6.11-{platform}-{arch}/",
+    "package_name": "electron-v1.6.11-{platform}-{arch}.tar.gz",
+    "host": "https://github.com/DeekyJay/electron-printer/releases/download/0.0.8"
   },
   "dependencies": {
     "nan": "^2.1.0",
